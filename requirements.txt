@@ -267,7 +267,7 @@ mkl-random==1.0.1
 mock==2.0.0
 more-itertools==4.3.0
 mpmath==1.0.0
-msgpack==0.5.6
+msgpack==1.2.1
 msrest==0.6.6
 msrestazure==0.6.0
 multimethods==1.0.0
